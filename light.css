@@ -25,3 +25,4 @@ td { background-color: white; }
 form { background-color: lightgray; }
 input { border: 1px solid black; background-color: lightgray; }
 textarea { border: 1px solid black; background-color: lightgray; }
+a { display: inline; color: black; }
