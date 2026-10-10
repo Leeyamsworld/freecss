@@ -1,0 +1,27 @@
+/* FreeCSS Light */
+
+body { background-color: white; width: 100%; }
+* { padding: 10px; margin: 25px; border-radius; 25px; width: auto; height: auto; font-family: sans-serif; border: 1px solid black; }
+.media-wrap { background-color: lightgray; display: block }
+.card { background-color: lightgray; text-align: center; display: block }
+img { background-color: lightgray; display: block }
+video { background-color: lightgray; display: block }
+audio { background-color: lightgray; display: block }
+p { display: inline; color: black; }
+h1, h2, h3, h4, h5, h6 { display: inline; color: black }
+section { display: block; background-color: lightgray; }
+button { background-color: blue; color: white; }
+select { background-color: blue; color: white; }
+header, footer, nav { background-color: lightgray; }
+.circle { background-color: lightgray; border-radius: 100% !important }
+.square { background-color: lightgray; border-radius: 0% !important }
+.rnd-sqr { background-color: lightgray; border-radius: 25% !important }
+hr { color: gray !important }
+ul { display: block; background-color: lightgray; }
+ol { display: block; background-color: lightgray; }
+table { border: 1px solid black; }
+th { background-color: yellow; }
+td { background-color: white; }
+form { background-color: lightgray; }
+input { border: 1px solid black; background-color: lightgray; }
+textarea { border: 1px solid black; background-color: lightgray; }
