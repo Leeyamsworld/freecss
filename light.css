@@ -16,7 +16,7 @@ header, footer, nav { background-color: lightgray; border-radius; 25px }
 .circle { background-color: lightgray; border-radius: 100% !important }
 .square { background-color: lightgray; border-radius: 0% !important }
 .rnd-sqr { background-color: lightgray; border-radius: 25% !important }
-hr { border: none; height: 2px; background-color: #333; border-radius: 1px !important; }
+hr { border: none; height: 2px !important; background-color: #333; border-radius: 1px !important; }
 ul { display: block; background-color: lightgray; border-radius; 25px }
 ol { display: block; background-color: lightgray; border-radius; 25px }
 table { border: 1px solid black;; border-radius; 25px }
