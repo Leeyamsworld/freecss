@@ -2,27 +2,27 @@
 
 body { background-color: black; width: 100%; border-radius; 25px !important }
 * { padding: 10px; margin: 25px; border-radius; 25px !important; width: auto; height: auto; font-family: sans-serif; }
-.media-wrap { background-color: darkgray; display: block }
-.card { background-color: darkgray; text-align: center; display: block }
-img { background-color: darkgray; display: block }
-video { background-color: darkgray; display: block }
-audio { background-color: darkgray; display: block }
-p { display: inline; color: white; }
-h1, h2, h3, h4, h5, h6 { display: inline; color: white }
-section { display: block; background-color: darkgray; }
-button { background-color: blue; color: white; }
-select { background-color: blue; color: white; }
-header, footer, nav { background-color: darkgray; }
+.media-wrap { background-color: darkgray; display: block; border-radius; 25px !important }
+.card { background-color: darkgray; text-align: center; display: block; border-radius; 25px !important }
+img { background-color: darkgray; display: block; border-radius; 25px !important }
+video { background-color: darkgray; display: block; border-radius; 25px !important }
+audio { background-color: darkgray; display: block; border-radius; 25px !important }
+p { display: inline; color: white; border-radius; 25px !important }
+h1, h2, h3, h4, h5, h6 { display: inline; color: white; border-radius; 25px !important }
+section { display: block; background-color: darkgray; border-radius; 25px !important }
+button { background-color: blue; color: white; border-radius; 25px !important }
+select { background-color: blue; color: white; border-radius; 25px !important }
+header, footer, nav { background-color: darkgray; border-radius; 25px !important }
 .circle { background-color: darkgray; border-radius: 100% !important }
 .square { background-color: darkgray; border-radius: 0% !important }
 .rnd-sqr { background-color: darkgray; border-radius: 25% !important }
 hr { color: gray !important }
-ul { display: block; background-color: darkgray; }
-ol { display: block; background-color: darkgray; }
-table { border: 1px solid black; }
-th { background-color: yellow; }
-td { background-color: white; }
-form { background-color: darkgray; }
-input { border: 1px solid black; background-color: darkgray; }
-textarea { border: 1px solid black; background-color: darkgray; }
+ul { display: block; background-color: darkgray; border-radius; 25px !important }
+ol { display: block; background-color: darkgray; border-radius; 25px !important }
+table { border: 1px solid black; border-radius; 25px !important }
+th { background-color: yellow }
+td { background-color: white }
+form { background-color: darkgray }
+input { border: 1px solid black; background-color: darkgray; border-radius; 25px !important }
+textarea { border: 1px solid black; background-color: darkgray; border-radius; 25px !important }
 a { display: inline; color: white; }
