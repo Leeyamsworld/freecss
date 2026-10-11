@@ -1,7 +1,7 @@
 /* FreeCSS Dark */
 
-body { background-color: black; width: 100%; border-radius; 25px !important }
-* { padding: 10px; margin: 25px; border-radius; 25px !important; width: auto; height: auto; font-family: sans-serif; }
+body { background-color: black; width: 100%; border-radius: 25px !important }
+* { padding: 10px; margin: 25px; border-radius: 25px !important; width: auto; height: auto; font-family: sans-serif; }
 .media-wrap { background-color: darkgray; display: block; border-radius; 25px !important }
 .card { background-color: darkgray; text-align: center; display: block; border-radius; 25px !important }
 img { background-color: darkgray; display: block; border-radius; 25px !important }
