@@ -1,6 +1,6 @@
 /* FreeCSS Light */
 
-body { background-color: white; width: 100%; }
+body { background-color: white; width: 100%; border-radius; 25px !important }
 * { padding: 10px; margin: 25px; border-radius; 25px !important; width: auto; height: auto; font-family: sans-serif; }
 .media-wrap { background-color: lightgray; display: block }
 .card { background-color: lightgray; text-align: center; display: block }
